@@ -1,0 +1,2 @@
+# smj
+learning git 
